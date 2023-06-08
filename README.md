@@ -1,9 +1,9 @@
 # :satellite: SYNAPSE IoT HUB v1.0
 **Synapse IoT Hub - Remote Controlled Automation Board With LoRa, RS485 and Wi-Fi**
 
- In this project, I have designed an automation board with LoRa wireless communication technology that goes beyond creating a system that solely communicates over the internet. This innovative board can establish communication over long distances while incorporating end-to-end encryption. With this advancement, I can build a centralized infrastructure. The innovative model aims to achieve my goal of creating a comprehensive system by facilitating interaction among devices without internet access and located in remote areas.
+In this project, I have designed an automation board with LoRa wireless communication technology that goes beyond creating a system that solely communicates over the internet. This innovative board can establish communication over long distances while incorporating end-to-end encryption. With this advancement, I can build a centralized infrastructure. The innovative model aims to achieve my goal of creating a comprehensive system by facilitating interaction among devices without internet access and located in remote areas.
 
- Synapse IoT Hub features outputs that enable sensor usage and can easily integrate with other systems through RS485 communication. The project is open-source and it contains all the information regarding the pin connections of the components on the board and how to program it.
+Synapse IoT Hub features outputs that enable sensor usage and can easily integrate with other systems through RS485 communication. The project is open-source and it contains all the information regarding the pin connections of the components on the board and how to program it.
 
 # :zap: TECHNICIAL SPECIFICATIONS
 :white_check_mark: ESP32-WROOM-32D
