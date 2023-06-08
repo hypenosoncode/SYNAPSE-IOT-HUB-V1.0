@@ -1,0 +1,5 @@
+MODEL:SYNAPSE_SON_UPDATE_Y2(replacefile) 
+SIZE:28*38 CM  T=0.15 MM
+DATE:2023-04-07 12:00  
+NO:SO12304046625    4757654A (ÍâÃ³)   
+[ÎÞÂÁ¿ò¸ÖÆ¬]
