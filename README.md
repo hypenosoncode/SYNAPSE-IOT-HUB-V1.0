@@ -34,8 +34,8 @@ Synapse IoT Hub features outputs that enable sensor usage and can easily integra
 ![PCB_BOTTOM](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/b0e06abf-7859-40cc-900b-3bab4d19494d)
 
 # :large_orange_diamond: SMD PLACEMENT & STENCIL
-![SMD_PLACEMENT](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/8ad9ae51-fce4-4496-92e7-c8f70661082b)
 ![STENCIL_SOLDER](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/406297bc-a9af-4210-8656-34bd1fcd38cd)
+![SMD_PLACEMENT](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/8ad9ae51-fce4-4496-92e7-c8f70661082b)
 
 # :large_orange_diamond: FINAL PROJECT
 ![FINISH_PCB](https://github.com/hypenosoncode/SYNAPSE-IOT-HUB-V1.0/assets/74931027/2398f7fc-3e46-4e30-a122-08d1f4f4a552)
