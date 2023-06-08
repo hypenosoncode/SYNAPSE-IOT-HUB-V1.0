@@ -26,9 +26,9 @@ Synapse IoT Hub features outputs that enable sensor usage and can easily integra
 
 ㅤㅤㅤㅤ:heavy_exclamation_mark:Max. Current[AC/DC]: 10A
 
-ㅤㅤㅤㅤ:heavy_exclamation_mark:Min. Voltage[AC/DC]: 125VAC/28VDC
-
 ㅤㅤㅤㅤ:heavy_exclamation_mark:Max. Voltage[AC/DC]: 250VAC/30VDC)
+
+ㅤㅤㅤㅤ:heavy_exclamation_mark:Min. Voltage[AC/DC]: 125VAC/28VDC
 
 # :camera: IMAGES
 # :large_orange_diamond: 3D RENDER
