@@ -20,7 +20,7 @@ Synapse IoT Hub features outputs that enable sensor usage and can easily integra
 
 :white_check_mark: Input Voltage: 12-24VDC
 
-:white_check_mark: Relay Outputs: 4 (Max. Current[AC/DC]: 10A; Min. Voltage[AC/DC]: 125VAC/28VDC; Max. Voltage[AC/DC]: 250VAC/30VDC)
+:white_check_mark: Relay Outputs: 4 (Max. Current[AC/DC]: 10A - Min. Voltage[AC/DC]: 125VAC/28VDC - Max. Voltage[AC/DC]: 250VAC/30VDC)
 
 :white_check_mark: Led Indıcators (4x Relay On/Off for Every Relay Output; 1x Power; 1x LoRa Data Receive Control Led)
 
