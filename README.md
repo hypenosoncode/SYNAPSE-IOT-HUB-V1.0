@@ -10,6 +10,8 @@ Synapse IoT Hub features outputs that enable sensor usage and can easily integra
 
 :white_check_mark: WiFi
 
+:white_check_mark: Bluetooth
+
 :white_check_mark: 5-7km Range Communication - LoRa (Ebyte E22-900T22D)
 
 :white_check_mark: RS485
